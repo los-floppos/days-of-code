@@ -1,5 +1,5 @@
 # days-of-code
-Follwoing the #100-days-of-code challenge
+Following the #100-days-of-code challenge
 
 Generally I plan to follow the course
 https://www.udemy.com/course/100-days-of-code/
